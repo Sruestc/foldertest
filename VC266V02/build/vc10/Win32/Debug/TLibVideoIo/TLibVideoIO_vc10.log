@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/6/29 20:28:00。
+     1>项目“D:\Desktop\VC266V02\build\vc10\TLibVideoIO_vc10.vcxproj”在节点 5 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\Desktop\VC266V02\build\\..\source\Lib\ /ID:\Desktop\VC266V02\build\\..\compat\msvc /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\Desktop\VC266V02\build\\vc10\Win32\Debug\TLibVideoIo\\" /Fd"D:\Desktop\VC266V02\build\\vc10\Win32\Debug\TLibVideoIo\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibVideoIO\TVideoIOYuv.cpp
+         TVideoIOYuv.cpp
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\Desktop\VC266V02\build\\vc10\Win32\Debug\TLibVideoIo\TLibVideoIO.lib" /NOLOGO D:\Desktop\VC266V02\build\\vc10\Win32\Debug\TLibVideoIo\TVideoIOYuv.obj
+         TLibVideoIO_vc10.vcxproj -> D:\Desktop\VC266V02\build\\vc10\Win32\Debug\TLibVideoIo\TLibVideoIO.lib
+     1>已完成生成项目“D:\Desktop\VC266V02\build\vc10\TLibVideoIO_vc10.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.67

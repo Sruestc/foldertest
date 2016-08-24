@@ -1,0 +1,10 @@
+#======== File I/O ===============
+InputFile                     : ../../VC266/tmzIntra3_1920x1080_23fps.yuv
+InputBitDepth                 : 8           # Input bitdepth
+FrameRate                     : 23          # Frame Rate per second
+FrameSkip                     : 0           # Number of frames to be skipped in input
+SourceWidth                   : 1920        # Input  frame width
+SourceHeight                  : 1080        # Input  frame height
+FramesToBeEncoded              : 1         # Number of frames to be coded
+
+Level                         : 4

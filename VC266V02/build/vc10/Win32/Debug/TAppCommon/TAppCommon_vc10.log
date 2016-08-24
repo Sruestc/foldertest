@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/6/29 20:28:00。
+     1>项目“D:\Desktop\VC266V02\build\vc10\TAppCommon_vc10.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\Desktop\VC266V02\build\\..\source\Lib\ /ID:\Desktop\VC266V02\build\\..\compat\msvc /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\Desktop\VC266V02\build\\vc10\Win32\Debug\TAppCommon\\" /Fd"D:\Desktop\VC266V02\build\\vc10\Win32\Debug\TAppCommon\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TAppCommon\program_options_lite.cpp
+         program_options_lite.cpp
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\Desktop\VC266V02\build\\vc10\Win32\Debug\TAppCommon\TAppCommon.lib" /NOLOGO D:\Desktop\VC266V02\build\\vc10\Win32\Debug\TAppCommon\program_options_lite.obj
+         TAppCommon_vc10.vcxproj -> D:\Desktop\VC266V02\build\\vc10\Win32\Debug\TAppCommon\TAppCommon.lib
+     1>已完成生成项目“D:\Desktop\VC266V02\build\vc10\TAppCommon_vc10.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.82

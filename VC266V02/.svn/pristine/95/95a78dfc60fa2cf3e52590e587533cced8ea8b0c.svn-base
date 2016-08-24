@@ -1,0 +1,10 @@
+#======== File I/O ===============
+InputFile                     : ../../VC266/RushHour_3840x2160_30Hz.yuv
+InputBitDepth                 : 8           # Input bitdepth
+FrameRate                     : 30          # Frame Rate per second
+FrameSkip                     : 0           # Number of frames to be skipped in input
+SourceWidth                   : 3840        # Input  frame width
+SourceHeight                  : 2160        # Input  frame height
+FramesToBeEncoded              : 64         # Number of frames to be coded
+
+Level                         : 4
